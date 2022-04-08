@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iwertyuiop123653
 - 👀 I’m interested in ... Code
 - 🌱 I’m currently learning ... JetBrains
-- 💞️ I’m looking to collaborate on ... @IFOODy00
+- 💞️ I’m looking to collaborate on ... Github
 - 📫 How to reach me ...  soup6969696969@gmail.com
 
 <!---
