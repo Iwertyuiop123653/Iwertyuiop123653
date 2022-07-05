@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Iwertyuiop123653
 - 👀 I’m interested in ... Code
-- 🌱 I’m currently learning ... JetBrains
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Github
-- 📫 How to reach me ...  soup6969696969@gmail.com
+- 📫 How to reach me ...  Grepper IEATCODE
 
 <!---
 Iwertyuiop123653/Iwertyuiop123653 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
