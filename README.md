@@ -13,7 +13,7 @@ Skills: PYTHON / BATCH / HTML / CSS
 - 📫 How to reach me: @IEATCODE on grepper 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Iwertyuiop123653)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@ieatcode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Iwertyiop123653)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Iwertyuiop123653)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@ieatcode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/iwertyuiop123653)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Iwertyuiop123653)](https://github.com/ryo-ma/github-profile-trophy)
 
