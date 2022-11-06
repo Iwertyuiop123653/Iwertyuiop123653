@@ -21,4 +21,4 @@ Skills: PYTHON / BATCH / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Iwertyuiop123653)  
 
-![Website](https://funcodr.com)
+[Website](https://funcodr.com)
