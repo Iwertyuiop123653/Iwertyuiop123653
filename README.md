@@ -6,9 +6,7 @@ I like to code in my spare time, I spend most of my time coding. also, I only co
 Skills: PYTHON / BATCH / HTML / CSS
 
 - 🔭 I’m currently working on kittyscript 
-- 🌱 I’m currently learning C++ 
-- 👯 I’m looking to collaborate on kittyscript 
-- 🤔 I’m looking for help with kittyscript 
+- 🌱 I’m currently learning JavaScript(Vanilla) 
 - 💬 Ask me about HTML 
 - 📫 How to reach me: @IEATCODE on grepper 
 
